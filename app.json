@@ -31,7 +31,7 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "AwesomeSupport"
+      "value": "ROYALUBOT_SUPPORT"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
@@ -50,7 +50,7 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": "https://te.legra.ph/file/2af5b1967736f5a9915e7.jpg"
+      "value": "https://te.legra.ph/file/758709448f6c3853f07b8.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
