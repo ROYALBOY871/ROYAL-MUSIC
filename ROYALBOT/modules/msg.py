@@ -1,9 +1,9 @@
 import os
-from VCPlayBot.config import SOURCE_CODE
-from VCPlayBot.config import ASSISTANT_NAME
-from VCPlayBot.config import PROJECT_NAME
-from VCPlayBot.config import SUPPORT_GROUP
-from VCPlayBot.config import UPDATES_CHANNEL
+from ROYALBOT.config import SOURCE_CODE
+from ROYALBOT.config import ASSISTANT_NAME
+from ROYALBOT.config import PROJECT_NAME
+from ROYALBOT.config import SUPPORT_GROUP
+from ROYALBOT.config import UPDATES_CHANNEL
 class Messages():
       START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n🤖 I am an advanced bot created for playing music in the voice chats of Telegram Groups & Channels.\n\n✅ Send me /help for more info.\n\n Join @Girls_And_Boys_Chatting"
       HELP_MSG = [
