@@ -1,1 +1,1 @@
-worker: python3 -m ROYAL-MUSIC
+worker: python3 -m ROYALBOT
